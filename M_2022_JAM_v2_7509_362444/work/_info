@@ -1,0 +1,52 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dE:/F__IC__Code/M_2022_JAM
+vJAM
+Z0 VDg1SIo80bB@j0V0VzS_@n1
+r1
+!s85 0
+31
+!i10b 1
+!s100 B3A>5E2I]cT2BARMz6N^]2
+I_eZ?`MU3[Qf1eY;eMV_AU3
+Z1 dE:/F__IC__Code/M_2022_JAM_v2
+w1657782408
+8E:/F__IC__Code/M_2022_JAM_v2/JAM.v
+FE:/F__IC__Code/M_2022_JAM_v2/JAM.v
+L0 1
+Z2 OL;L;10.4;61
+!s108 1657782410.433000
+!s107 E:/F__IC__Code/M_2022_JAM_v2/JAM.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/F__IC__Code/M_2022_JAM_v2/JAM.v|
+!i113 0
+o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+n@j@a@m
+vtestfixture
+DXx6 sv_std 3 std 0 22 WmjPaeP=7F5?QFXzJ>D[Q2
+R0
+r1
+!s85 0
+31
+!i10b 1
+!s100 m4LzdVcgQSJGc38hk;hbO3
+IE:FhJg1S3K7B1d8lNUP:F3
+!s105 tb_sv_unit
+S1
+R1
+w1657733408
+8E:/F__IC__Code/M_2022_JAM_v2/tb.sv
+FE:/F__IC__Code/M_2022_JAM_v2/tb.sv
+L0 18
+R2
+!s108 1657782410.359000
+!s107 E:/F__IC__Code/M_2022_JAM_v2/tb.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|E:/F__IC__Code/M_2022_JAM_v2/tb.sv|
+!i113 0
+o-work work -sv -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
